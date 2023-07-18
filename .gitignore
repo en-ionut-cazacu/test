@@ -1,0 +1,8 @@
+myfile1.txt - Copy.333 - Copy.txt
+
+myfile1.txt.333.*
+myfile1.txt*.txt
+
+*.java
+
+bin/
